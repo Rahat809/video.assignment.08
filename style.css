@@ -1,0 +1,37 @@
+.potaka{
+height: 100px;
+width: 250px;
+background: rgb(21, 85, 21);
+text-align: center;
+padding: 20px;
+
+}
+.red{
+ background: red;
+ height: 100px;
+ width: 100px;
+ border-radius: 50%;
+ display: inline-block;
+}
+
+.egg{
+    height: 100px;
+    width: 250px;
+    background: rgb(216, 189, 16);
+    border: 5px solid rgb(207, 103, 18);
+    text-align: center;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 20px;
+}
+.kusum{
+height: 100px;
+width: 100px;
+border-radius: 50%;
+background: rgb(228, 8, 8);
+display: inline-block;
+}
+
+h2{
+    text-shadow: 2px 3px 3px red;
+}
